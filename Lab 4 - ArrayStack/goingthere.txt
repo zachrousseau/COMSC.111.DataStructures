@@ -1,0 +1,4 @@
+north on Rt. 114
+north on Metacom Ave.
+south on High St.
+east on Church st.
